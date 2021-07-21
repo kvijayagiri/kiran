@@ -1,0 +1,33 @@
+body{
+    background-color: springgreen;
+    background-image: url("C:/Users/Divya/Desktop/Red_Apple.jpg");
+}
+.laxmi{
+    text-align: right;
+    background-color:green;
+    top:10px;
+    width: 1300px;
+    position:fixed;
+    border:10px solid blue;
+    padding:10px
+
+
+}
+.kirru{
+    text-align:center
+}
+div{
+    background-color: grey;
+}
+.shashi{
+    background-color: hotpink;
+}
+#kiran{
+    background-color: indianred;
+}
+.container{
+background-color: indigo;
+}
+#nani{
+background-color: lime;
+}
